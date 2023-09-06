@@ -5,6 +5,7 @@
 - 👨‍💻 I’m currently learning ReactJS and Python
 - Connect with me: https://www.linkedin.com/in/sathananthan-vineji-273401259/
 
-- <img src="css1.png"  width="auto" height="200">
+- Languages:
+  <img src="css1.png"  width="auto" height="100">
 
 
