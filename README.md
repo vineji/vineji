@@ -7,6 +7,6 @@
 
 - Languages:
   
-  <img src="css1.png"  width="auto" height="100"> <img src="html1.png"  width="auto" height="100"> <img src="java2.png"  width="auto" height="100">
+  <img src="css1.png"  width="auto" height="100"> <img src="html1.png"  width="auto" height="100"> <img src="java2.png"  width="auto" height="100"> <img src="php.png"  width="auto" height="100"> <img src="python.png"  width="auto" height="100"> <img src="sql.png"  width="auto" height="100">
 
 
