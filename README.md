@@ -7,6 +7,6 @@
 
 - Languages:
   
-  <img src="css1.png"  width="auto" height="100"> <img src="html.png"  width="auto" height="100"> <img src="css1.png"  width="auto" height="100">
+  <img src="css1.png"  width="auto" height="100"> <img src="html1.png"  width="auto" height="100"> <img src="java2.png"  width="auto" height="100">
 
 
