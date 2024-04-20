@@ -8,6 +8,6 @@
 
 - Languages:
   
-  <img src="css1.png"  width="auto" height="100"> <img src="html1.png"  width="auto" height="100"> <img src="js.png"  width="auto" height="100"> <img src="java2.png"  width="auto" height="100"> <img src="python.png"  width="auto" height="85"> <img src="sql.png"  width="auto" height="115"> <img src="react.png" width="auto" height="100"> 
+  <img src="css1.png"  width="auto" height="100"> <img src="html1.png"  width="auto" height="100"> <img src="js1.png"  width="auto" height="100"> <img src="java2.png"  width="auto" height="100"> <img src="python.png"  width="auto" height="85"> <img src="sql.png"  width="auto" height="115"> <img src="react.png" width="auto" height="100"> 
 
 
