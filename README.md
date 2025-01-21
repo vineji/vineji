@@ -1,7 +1,7 @@
 ### Hello there 👋, I'm Vineji
 
 
-- 👨‍💻 I’m currently learning React
+- 👨‍💻 I’m currently learning Vue and Django framework
 -  Connect with me: https://www.linkedin.com/in/sathananthan-vineji-273401259/
 - 🖥 Visit my Digital Portfolio - [vineji.com](https://www.vineji.com)
 
